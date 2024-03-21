@@ -1,16 +1,39 @@
-### Hi there 👋
+<style>
+body {
+    background-color: #2c3e50; /* Fondo oscuro */
+    color: ghostwhite; /* Color de letra */
+}
+</style>
 
-<!--
-**alexxppp/alexxppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Curriculum Vitae
 
-Here are some ideas to get you started:
+![Foto/Logo](ruta_de_la_imagen.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos
+
+- Lenguajes de Programación:
+  - Python
+  - JavaScript
+  - Java
+- Tecnologías Web:
+  - HTML/CSS
+  - React.js
+  - Node.js
+
+## Experiencia
+
+### Desarrollador Web
+**Empresa XYZ** (Fecha de inicio - Fecha de finalización)
+- Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías modernas como React.js y Node.js.
+
+### Prácticas como Desarrollador Junior
+**Empresa ABC** (Fecha de inicio - Fecha de finalización)
+- Aprendizaje y aplicación de principios de desarrollo de software en un entorno profesional.
+
+## Habilidades y Más
+
+- Trabajo en equipo
+- Resolución de problemas
+- Autodidacta
+- Comunicación efectiva
+
