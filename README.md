@@ -1,39 +1,26 @@
-<style>
-body {
-    background-color: #2c3e50; /* Fondo oscuro */
-    color: ghostwhite; /* Color de letra */
-}
-</style>
+# About me
 
-# Curriculum Vitae
+## Who am I
 
-![Foto/Logo](ruta_de_la_imagen.png)
+I am Alex Pace, a student currently living in Valencia, Spain. 
 
-## Conocimientos
+## Knowledge
 
-- Lenguajes de Programación:
-  - Python
+- Programming languages:
   - JavaScript
   - Java
-- Tecnologías Web:
+  - MySQL
+- Web technologies:
   - HTML/CSS
-  - React.js
-  - Node.js
+  - THREE.js
+  - Unity
 
-## Experiencia
+## Experience
 
-### Desarrollador Web
-**Empresa XYZ** (Fecha de inicio - Fecha de finalización)
-- Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías modernas como React.js y Node.js.
+Currently studying Multiplatform Applications Development
 
-### Prácticas como Desarrollador Junior
-**Empresa ABC** (Fecha de inicio - Fecha de finalización)
-- Aprendizaje y aplicación de principios de desarrollo de software en un entorno profesional.
+## Habilities & More
 
-## Habilidades y Más
-
-- Trabajo en equipo
-- Resolución de problemas
-- Autodidacta
-- Comunicación efectiva
-
+- Team-work
+- Effective problem solving
+- Continuous seeking of knowledge and improvement
