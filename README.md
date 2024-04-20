@@ -10,7 +10,7 @@ I am Alex Pace, a student currently living in Valencia, Spain.
   - JavaScript
   - Java
   - MySQL
-- Web technologies:
+- Web technologies & Others:
   - HTML/CSS
   - THREE.js
   - Unity
