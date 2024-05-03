@@ -9,6 +9,7 @@ I am Alex Pace, a student currently living in Valencia, Spain.
 - Programming languages:
   - JavaScript
   - Java
+  - C
   - MySQL
 - Web technologies & Others:
   - HTML/CSS
