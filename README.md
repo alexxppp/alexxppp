@@ -2,19 +2,19 @@
 
 ## Who am I
 
-I am Alex Pace, a student currently living in Valencia, Spain. 
+I am Alex Pace, I'm currently living in Valencia, Spain. 
 
 ## Knowledge
 
 - Programming languages:
-  - JavaScript
   - Java
+  - JavaScript
+  - Python
   - C
   - MySQL
 - Web technologies & Others:
   - HTML/CSS
   - THREE.js
-  - Unity
 
 ## Experience
 
