@@ -13,7 +13,8 @@ I am Alex Pace, I'm currently living in Valencia, Spain.
   - C
   - MySQL
 - Web technologies & Others:
-  - HTML/CSS
+  - HTML & CSS
+  - Flask & Jinja
   - THREE.js
 
 ## Experience
