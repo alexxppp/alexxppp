@@ -11,11 +11,14 @@ I am Alex Pace, I'm currently living in Valencia, Spain.
   - JavaScript
   - Python
   - C
-  - MySQL
+  - SQL
+  - Kotlin
 - Web technologies & Others:
   - HTML & CSS
   - Flask & Jinja
   - THREE.js
+  - Node.js
+  - Android Studio
 
 ## Experience
 
