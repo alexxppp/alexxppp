@@ -15,9 +15,11 @@ I am Alex Pace, I'm currently living in Valencia, Spain.
   - Kotlin
 - Web technologies & Others:
   - HTML & CSS
+  - Bootstrap
   - Flask & Jinja
   - THREE.js
   - Node.js
+  - React.js
   - Android Studio
 
 ## Experience
