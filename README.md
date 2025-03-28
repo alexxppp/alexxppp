@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I'm Alex Pace</h1>
   <p><em>Developer | Problem Solver | Learner</em></p>
-  <p>Currently moving around in <strong>Europe</strong></p>
+  <p>Currently somewhere in <strong>Europe</strong></p>
   <a href="https://linkedin.com/in/alex-pace-303ba2292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pacealexwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
