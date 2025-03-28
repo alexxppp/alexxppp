@@ -1,51 +1,47 @@
 <div align="center">
-  <h1>👋 Hey there! I'm Alex Pace</h1>
-  <p><em>Developer | Problem Solver | Lifelong Learner</em></p>
-  <p>Currently crafting code and exploring tech from <strong>Valencia, Spain</strong> 🌞</p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <h1>Hello, I'm Alex Pace</h1>
+  <p><em>Developer | Problem Solver | Learner</em></p>
+  <p>Currently moving around in <strong>Europe</strong></p>
+  <a href="https://linkedin.com/in/alex-pace-303ba2292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pacealexwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a passionate developer with a knack for building efficient, multiplatform solutions. I thrive on turning ideas into functional code and love diving into new technologies. When I’m not coding, you’ll find me exploring innovative projects or sharpening my skills.
+Passionate developer, fairly new but already highly skilled. I learn quickly, proven by excelling in rigorous studies despite no prior training. Regularly conduct independent research to deepen my knowledge beyond academic teachings.
 
 - **Location**: Valencia, Spain  
-- **Currently**: Studying Multiplatform Applications Development  
-- **Fun Fact**: [Add something unique about yourself here!]
+- **Currently**: Studying Multiplatform Applications Development
 
 ---
 
 ## 🛠️ Tech Stack
 
-Here’s what I bring to the table:
+Main abilities:
 
 ### Programming Languages
-- **Kotlin** (Compose Multiplatform)  
+- **Kotlin** (Compose, Compose Multiplatform)  
 - **Java**  
 - **JavaScript**  
-- **C#** / **.NET**  
+- **C#** / **.NET** (API development, security)  
 - **Python**  
 - **C**  
 - **SQL**  
 
 ### Web Technologies & Tools
-- **HTML & CSS**  
-- **Bootstrap**  
-- **React.js** / **Angular.js**  
 - **Node.js**  
+- **React.js**
+- **Angular.js**  
 - **Flask** & **Jinja**  
 - **THREE.js**  
+- **HTML & CSS/Bootstrap**
 
 ### Other Skills
 - **Android Development**  
 - **API Design & Integration**  
-- **Version Control**: Git / GitHub  
-
-> *Have a specific tech in mind? Ask me about it—I might have dabbled in it!*
+- **Version Control**: Git / GitHub
 
 ---
 
@@ -53,58 +49,46 @@ Here’s what I bring to the table:
 
 ### Education
 - **Multiplatform Applications Development**  
-  *Currently pursuing* – [Institution Name], Valencia, Spain  
-  - Gaining hands-on experience in building cross-platform apps with modern frameworks.
+  *Currently pursuing* – [IES Abastos], Valencia, Spain  
+  - I finished the studies, and I'm doing a three month internship in Vienna, which will make me have the degree
 
 ### Projects
-- **[Project Name]**  
-  *Description*: [A brief description of a key project—tech used, purpose, outcome.]  
-  *Link*: [GitHub link or live demo]  
+- **[kAssist (Kotlin Multiplatform with Compose Multiplatform)]** Currently developing  
+  *Description*: [Resource management system for emergencies caused by natural disasters]
 
-- **[Project Name]**  
-  *Description*: [Another project to showcase your skills.]  
-  *Link*: [GitHub link or live demo]  
+- **[Social Events Manager (electron, react, typescript)]**  
+  *Description*: [Just an over-engineered to-do list but for social events, connected to a remote server]  
+  *Link*: https://github.com/alexxppp/SocialEventsManager
 
-> *Check out my repositories below for more!*
+- **[Stock Predictor (pure java)]**  
+  *Description*: [Predicts the price for the next 20 days of a stock based on historical data. Uses AI]  
+  *Link*: https://github.com/alexxppp/StockPredictor
+
+> *See my repositories below for more*
 
 ---
 
 ## 💡 Skills & Strengths
 
-- **Teamwork**: Collaborating effectively to bring projects to life.  
-- **Problem Solving**: Tackling challenges with creative and efficient solutions.  
-- **Continuous Learning**: Always seeking new knowledge and staying ahead of the curve.  
-- **Communication**: Bridging tech and people with clarity.  
-- **[Add More Here]**: [Personalize this—e.g., adaptability, attention to detail, etc.]  
+- **Teamwork**: I have experience collaborating in teams.  
+- **Problem Solving**: I am able to provide quick and efficient problem solving solutions.  
+- **Continuous Learning**: Continuously seek knowledge and improvement.  
 
 ---
 
 ## 🏆 Achievements
 
-- [e.g., Won a hackathon, completed a challenging course, built an impactful project]  
-- [Add more accomplishments as you achieve them!]  
-
----
-
-## 🌍 Let’s Connect
-
-I’m always excited to collaborate, discuss tech, or explore new opportunities. Reach out!  
-
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [linkedin.com/in/your-linkedin]  
-- **Twitter**: [@your-twitter]  
-- **Portfolio**: [Link to personal site or leave blank for now]  
+- [completed several courses (cs50, seminars), and got all 10s and one 9 in the final grades of my app development degree]
 
 ---
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexxppp&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxppp&layout=compact&theme=radical)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexxppp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxppp&layout=compact&theme=radical&hide=html,css)
 
 ---
 
 <div align="center">
-  <p><em>“Code is like poetry—when it works, it’s magic.”</em></p>
-  <p>Thanks for stopping by! Let’s build something amazing together.</p>
+  <p><em>“I guess learning is what keeps a human going”</em></p>
 </div>
