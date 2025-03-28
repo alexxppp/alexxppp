@@ -10,6 +10,7 @@ I am Alex Pace, I'm currently living in Valencia, Spain.
   - Kotlin/Compose Multiplatform
   - Java
   - JavaScript
+  - C#/.NET
   - Python
   - C
   - SQL
