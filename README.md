@@ -30,7 +30,7 @@ Main abilities:
 - **C**  
 - **SQL**  
 
-### Web Technologies & Tools
+### Technologies & Frameworks
 - **Node.js**  
 - **React.js**
 - **Angular.js**  
@@ -51,6 +51,11 @@ Main abilities:
 - **Multiplatform Applications Development**  
   *Currently pursuing* – [IES Abastos], Valencia, Spain  
   - I finished the studies, and I'm doing a three month internship in Vienna, which will make me have the degree
+ 
+### Work
+- **3 months Internship**
+  *In process* - [CS nine GmbH], Vienna, Austria
+  - Responsible of a whole project to integrate in the company system
 
 ### Projects
 - **[kAssist (Kotlin Multiplatform with Compose Multiplatform)]** Currently developing  
@@ -78,7 +83,7 @@ Main abilities:
 
 ## 🏆 Achievements
 
-- [completed several courses (cs50, seminars), and got all 10s and one 9 in the final grades of my app development degree]
+- [completed several courses (cs50, seminars), and got all 10s and one 9 in the final grades of my multiplatform app development degree]
 
 ---
 
