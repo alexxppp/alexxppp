@@ -27,6 +27,7 @@ Highly skilled:
 - **Java**  
 - **JavaScript**  
 - **C#** / **.NET** (API development, security)
+ 
 Skilled:
 - **Python**  
 - **C**  
@@ -38,6 +39,7 @@ Highly skilled:
 - **React.js**
 - **Angular.js**
 - **HTML & CSS/Bootstrap**
+
 Skilled:
 - **Flask** & **Jinja**  
 - **THREE.js**
