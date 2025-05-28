@@ -13,7 +13,7 @@
 Passionate developer, fairly new but already highly skilled. I learn quickly, proven by excelling in rigorous studies despite no prior training. Regularly conduct independent research to deepen my knowledge beyond academic teachings.
 
 - **Location**: Valencia, Spain  
-- **Currently**: Studying Multiplatform Applications Development
+- **Currently**: Doing an internship in Vienna
 
 ---
 
