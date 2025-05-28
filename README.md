@@ -22,25 +22,30 @@ Passionate developer, fairly new but already highly skilled. I learn quickly, pr
 Main abilities:
 
 ### Programming Languages
+Highly skilled:
 - **Kotlin** (Compose, Compose Multiplatform)  
 - **Java**  
 - **JavaScript**  
-- **C#** / **.NET** (API development, security)  
+- **C#** / **.NET** (API development, security)
+Skilled:
 - **Python**  
 - **C**  
 - **SQL**  
 
 ### Technologies & Frameworks
+Highly skilled:
 - **Node.js**  
 - **React.js**
-- **Angular.js**  
-- **Flask** & **Jinja**  
-- **THREE.js**  
+- **Angular.js**
 - **HTML & CSS/Bootstrap**
+Skilled:
+- **Flask** & **Jinja**  
+- **THREE.js**
 
 ### Other Skills
-- **Android Development**  
-- **API Design & Integration**  
+- **Android and Multiplatform App Development**: Developed apps for Android, iOS and Desktop with Compose Multiplatform 
+- **API Design & Integration**: With tools like .NET and Spring Boot
+- **Object Relational Mapping programming**: With experience using EF Core (with CQRS) and Hibernate
 - **Version Control**: Git / GitHub
 
 ---
